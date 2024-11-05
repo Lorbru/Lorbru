@@ -4,7 +4,7 @@
 
 ## Repositories : 
 
-### Data Science projects : 
+### Data Science & machine learning projects : 
 - Load forecast modelling (Data from EDF - prevision for 2023) : https://github.com/Lorbru/LoadForecasting
 - Radars threats classification : https://github.com/Lorbru/Radar_Threat_Classification
 
