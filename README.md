@@ -6,6 +6,7 @@
 
 ### Data Science projects : 
 - Load forecast modelling (Data from EDF - prevision for 2023) : https://github.com/Lorbru/LoadForecasting
+- Radars threats classification : https://github.com/Lorbru/Radar_Threat_Classification
 
 ### Articles reading : 
 - Feature Wise transformations and FiLM for visual reasonning : https://github.com/Lorbru/FiLM_for_visual_reasoning
