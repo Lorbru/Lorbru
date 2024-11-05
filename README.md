@@ -8,7 +8,7 @@
 - Load forecast modelling (Data from EDF - prevision for 2023) : https://github.com/Lorbru/LoadForecasting
 
 ### Articles reading : 
-- Feature Wise transformations et FiLM for visual reasonning : https://github.com/Lorbru/FiLM_for_visual_reasoning
+- Feature Wise transformations and FiLM for visual reasonning : https://github.com/Lorbru/FiLM_for_visual_reasoning
 
 ### Others : 
 - Bison Project (keywords : AI for games, graphs algorithms, iterative deepening, alpha/beta algorithm, DFS) : https://github.com/Lorbru/Projet_Bison
