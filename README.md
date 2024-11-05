@@ -5,7 +5,7 @@
 ## Repositories : 
 
 ### Data Science projects : 
-- Load forecasting modelling (Data from EDF - prevision for 2023) : https://github.com/Lorbru/LoadForecasting
+- Load forecast modelling (Data from EDF - prevision for 2023) : https://github.com/Lorbru/LoadForecasting
 
 ### Articles reading : 
 - Feature Wise transformations et FiLM for visual reasonning : https://github.com/Lorbru/FiLM_for_visual_reasoning
