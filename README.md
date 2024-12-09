@@ -5,13 +5,13 @@
 ## Repositories : 
 
 ### Articles reading : 
-- Feature Wise transformations and FiLM for visual reasonning : https://github.com/Lorbru/FiLM_for_visual_reasoning
+- Feature Wise transformations and FiLM for visual reasonning (question/answer on images): https://github.com/Lorbru/FiLM_for_visual_reasoning
 - Fisher estimation for stochastic gradient descent in latent variable models: https://github.com/Lorbru/FisherSGD
 
 ### Data Science & machine learning projects : 
-- Load forecasting (prevision for 2023) : https://github.com/Lorbru/LoadForecasting
+- Load forecasting (prevision for 2023, EDF) : https://github.com/Lorbru/LoadForecasting
 - Radars threats classification : https://github.com/Lorbru/Radar_Threat_Classification
-- NYCtips regression + Cover type classification : 
+- NYCtips regression/Cover type classification : https://github.com/Lorbru/DataChallenge
 
 ### Others : 
 - OpenAi whisper + FST for LaTeX code generation from speech (1st version) : https://github.com/Lorbru/FST-For-LaTeX
