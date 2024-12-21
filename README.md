@@ -7,6 +7,7 @@
 ### Articles reading : 
 - Feature Wise transformations and FiLM for visual reasonning (question/answer on images): https://github.com/Lorbru/FiLM_for_visual_reasoning
 - Fisher estimation for stochastic gradient descent in latent variable models: https://github.com/Lorbru/FisherSGD
+- Deep learning for audio source separation : https://github.com/Lorbru/dlts-project
 
 ### Data Science & machine learning projects : 
 - Load forecasting (prevision for 2023, EDF) : https://github.com/Lorbru/LoadForecasting
